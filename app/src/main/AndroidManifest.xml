@@ -10,4 +10,5 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pepper" />
 
+    <uses-feature android:name="com.softbank.hardware.pepper"/>
 </manifest>
